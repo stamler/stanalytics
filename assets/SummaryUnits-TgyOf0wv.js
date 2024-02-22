@@ -1,0 +1,1 @@
+import{_ as t}from"./DataTile.vue_vue_type_script_setup_true_lang-BwxvURj_.js";import{d as e,j as a,o}from"./index-BR78qFT1.js";import"./_commonjsHelpers-Cpj98o6Y.js";const i=e({__name:"SummaryUnits",setup(r){return(s,n)=>(o(),a(t,{title:"Summary Units",table:"sqdc_inventory_changes_allstores"}))}});export{i as default};
