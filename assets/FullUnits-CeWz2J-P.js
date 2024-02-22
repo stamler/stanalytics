@@ -1,1 +1,0 @@
-import{_ as t}from"./DataTile.vue_vue_type_script_setup_true_lang-B1FYYvgw.js";import{d as e,i as o,o as n}from"./index-DkmYRrIm.js";import"./tokenparser-BdKGo924.js";import"./_commonjsHelpers-Cpj98o6Y.js";const p=e({__name:"FullUnits",setup(r){return(s,a)=>(n(),o(t,{title:"Full Units",table:"sqdc_inventory_changes"}))}});export{p as default};
