@@ -1,1 +1,0 @@
-import{d as e,c as t,o}from"./index-JEsra2oL.js";import"./tokenparser-BdKGo924.js";import"./_commonjsHelpers-Cpj98o6Y.js";const l=e({__name:"DashboardView",setup(a){return(s,r)=>(o(),t("p",null," In the future, this will show small bite-sized summaries of data. "))}});export{l as default};
